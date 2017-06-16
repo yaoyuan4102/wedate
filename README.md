@@ -1,0 +1,2 @@
+# wedate
+npm run start
